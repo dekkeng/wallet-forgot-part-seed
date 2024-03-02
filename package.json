@@ -2,5 +2,25 @@
   "dependencies": {
     "bip39": "^3.1.0",
     "ethers": "^5.7.2"
-  }
+  },
+  "name": "wallet-forgot-part-seed",
+  "description": "no other way to think of, just brute force to get it.",
+  "version": "1.0.2",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dekkeng/wallet-forgot-part-seed.git"
+  },
+  "keywords": [
+    "eip39"
+  ],
+  "author": "dekkeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dekkeng/wallet-forgot-part-seed/issues"
+  },
+  "homepage": "https://github.com/dekkeng/wallet-forgot-part-seed#readme"
 }
